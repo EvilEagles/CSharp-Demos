@@ -1,0 +1,9 @@
+E:\Dropbox\Other Projects\Programming\C#\CSharpExercise2\CSharpExercise2\bin\Debug\CSharpExercise2.exe.config
+D:\Dropbox\Other Projects\Programming\C#\CSharpExercise2\CSharpExercise2\bin\Debug\CSharpExercise2.exe.config
+D:\Dropbox\Other Projects\Programming\C#\CSharpExercise2\CSharpExercise2\bin\Debug\CSharpExercise2.exe
+D:\Dropbox\Other Projects\Programming\C#\CSharpExercise2\CSharpExercise2\bin\Debug\CSharpExercise2.pdb
+D:\Dropbox\Other Projects\Programming\C#\CSharpExercise2\CSharpExercise2\obj\Debug\CSharpExercise2.csprojResolveAssemblyReference.cache
+D:\Dropbox\Other Projects\Programming\C#\CSharpExercise2\CSharpExercise2\obj\Debug\CSharpExercise2.exe
+D:\Dropbox\Other Projects\Programming\C#\CSharpExercise2\CSharpExercise2\obj\Debug\CSharpExercise2.pdb
+E:\Dropbox\Other Projects\Programming\C#\CSharpExercise2\CSharpExercise2\obj\Debug\CSharpExercise2.exe
+E:\Dropbox\Other Projects\Programming\C#\CSharpExercise2\CSharpExercise2\obj\Debug\CSharpExercise2.pdb
