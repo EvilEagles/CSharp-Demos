@@ -1,0 +1,5 @@
+D:\Dropbox\Other Projects\Programming\C#\InputRectangle\InputRectangle\bin\Debug\InputRectangle.exe.config
+D:\Dropbox\Other Projects\Programming\C#\InputRectangle\InputRectangle\bin\Debug\InputRectangle.exe
+D:\Dropbox\Other Projects\Programming\C#\InputRectangle\InputRectangle\bin\Debug\InputRectangle.pdb
+D:\Dropbox\Other Projects\Programming\C#\InputRectangle\InputRectangle\obj\Debug\InputRectangle.exe
+D:\Dropbox\Other Projects\Programming\C#\InputRectangle\InputRectangle\obj\Debug\InputRectangle.pdb

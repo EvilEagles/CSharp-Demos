@@ -70,13 +70,15 @@ namespace BasicXCOMFight
                 Console.WriteLine("HP: {0}/{1}", player.hp, player.maxHP);
                 Console.WriteLine("Aim: {0}", player.aim);
                 Console.WriteLine("Defense: {0}", player.def);
-                Console.WriteLine("Cover: {0}", player.cover);
+                if (player.cover == half_cover) Console.WriteLine("Cover: Half Cover (+{0} Defense)", half_cover);
+                else Console.WriteLine("Cover: Full Cover (+{0} Defense)", full_cover);
                 Console.WriteLine("|=========== VS ===========|");
                 Console.WriteLine("Name: {0}", enemy.name);
                 Console.WriteLine("HP: {0}/{1}", enemy.hp, enemy.maxHP);
                 Console.WriteLine("Aim: {0}", enemy.aim);
                 Console.WriteLine("Defense: {0}", enemy.def);
-                Console.WriteLine("Cover: {0}", enemy.cover);
+                if (enemy.cover == half_cover) Console.WriteLine("Cover: Half Cover (+{0} Defense)", half_cover);
+                else Console.WriteLine("Cover: Full Cover (+{0} Defense)", full_cover);
                 Console.WriteLine("|==========================|");
                 #endregion
                 // PRECONDITIONS
