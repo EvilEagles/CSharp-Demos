@@ -1,6 +1,0 @@
-E:\Dropbox\Other Projects\Programming\C#\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
-E:\Dropbox\Other Projects\Programming\C#\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe
-E:\Dropbox\Other Projects\Programming\C#\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
-E:\Dropbox\Other Projects\Programming\C#\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.csprojResolveAssemblyReference.cache
-E:\Dropbox\Other Projects\Programming\C#\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.exe
-E:\Dropbox\Other Projects\Programming\C#\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.pdb

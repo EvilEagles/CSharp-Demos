@@ -1,9 +1,0 @@
-E:\Dropbox\Other Projects\Programming\C#\LearningCSharp\LearningCSharp\bin\Debug\LearningCSharp.exe.config
-E:\Dropbox\Other Projects\Programming\C#\LearningCSharp\LearningCSharp\bin\Debug\LearningCSharp.exe
-E:\Dropbox\Other Projects\Programming\C#\LearningCSharp\LearningCSharp\bin\Debug\LearningCSharp.pdb
-E:\Dropbox\Other Projects\Programming\C#\LearningCSharp\LearningCSharp\obj\Debug\LearningCSharp.csprojResolveAssemblyReference.cache
-E:\Dropbox\Other Projects\Programming\C#\LearningCSharp\LearningCSharp\obj\Debug\LearningCSharp.exe
-E:\Dropbox\Other Projects\Programming\C#\LearningCSharp\LearningCSharp\obj\Debug\LearningCSharp.pdb
-D:\Dropbox\Other Projects\Programming\C#\LearningCSharp\LearningCSharp\bin\Debug\LearningCSharp.exe.config
-D:\Dropbox\Other Projects\Programming\C#\LearningCSharp\LearningCSharp\obj\Debug\LearningCSharp.exe
-D:\Dropbox\Other Projects\Programming\C#\LearningCSharp\LearningCSharp\obj\Debug\LearningCSharp.pdb

@@ -1,6 +1,0 @@
-c:\users\vu tri hung\documents\visual studio 2015\Projects\DrawTriangle\DrawTriangle\bin\Debug\DrawTriangle.exe.config
-c:\users\vu tri hung\documents\visual studio 2015\Projects\DrawTriangle\DrawTriangle\bin\Debug\DrawTriangle.exe
-c:\users\vu tri hung\documents\visual studio 2015\Projects\DrawTriangle\DrawTriangle\bin\Debug\DrawTriangle.pdb
-c:\users\vu tri hung\documents\visual studio 2015\Projects\DrawTriangle\DrawTriangle\obj\Debug\DrawTriangle.csprojResolveAssemblyReference.cache
-c:\users\vu tri hung\documents\visual studio 2015\Projects\DrawTriangle\DrawTriangle\obj\Debug\DrawTriangle.exe
-c:\users\vu tri hung\documents\visual studio 2015\Projects\DrawTriangle\DrawTriangle\obj\Debug\DrawTriangle.pdb

@@ -1,5 +1,0 @@
-E:\Dropbox\Other Projects\Programming\C#\xAndy\xAndy\bin\Debug\xAndy.exe.config
-E:\Dropbox\Other Projects\Programming\C#\xAndy\xAndy\bin\Debug\xAndy.exe
-E:\Dropbox\Other Projects\Programming\C#\xAndy\xAndy\bin\Debug\xAndy.pdb
-E:\Dropbox\Other Projects\Programming\C#\xAndy\xAndy\obj\Debug\xAndy.exe
-E:\Dropbox\Other Projects\Programming\C#\xAndy\xAndy\obj\Debug\xAndy.pdb

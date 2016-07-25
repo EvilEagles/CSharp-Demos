@@ -1,6 +1,0 @@
-E:\Dropbox\Other Projects\Programming\C#\DrawX\DrawX\bin\Debug\DrawX.exe.config
-E:\Dropbox\Other Projects\Programming\C#\DrawX\DrawX\bin\Debug\DrawX.exe
-E:\Dropbox\Other Projects\Programming\C#\DrawX\DrawX\bin\Debug\DrawX.pdb
-E:\Dropbox\Other Projects\Programming\C#\DrawX\DrawX\obj\Debug\DrawX.csprojResolveAssemblyReference.cache
-E:\Dropbox\Other Projects\Programming\C#\DrawX\DrawX\obj\Debug\DrawX.exe
-E:\Dropbox\Other Projects\Programming\C#\DrawX\DrawX\obj\Debug\DrawX.pdb

@@ -1,1 +1,0 @@
-D:\Dropbox\Other Projects\Programming\C#\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config

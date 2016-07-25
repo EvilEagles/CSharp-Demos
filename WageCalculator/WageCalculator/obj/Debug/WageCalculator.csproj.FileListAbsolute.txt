@@ -1,6 +1,0 @@
-c:\users\vu tri hung\documents\visual studio 2015\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe.config
-c:\users\vu tri hung\documents\visual studio 2015\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe
-c:\users\vu tri hung\documents\visual studio 2015\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.pdb
-c:\users\vu tri hung\documents\visual studio 2015\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.csprojResolveAssemblyReference.cache
-c:\users\vu tri hung\documents\visual studio 2015\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.exe
-c:\users\vu tri hung\documents\visual studio 2015\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.pdb

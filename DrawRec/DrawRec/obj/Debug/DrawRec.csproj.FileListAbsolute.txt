@@ -1,6 +1,0 @@
-E:\Dropbox\Other Projects\Programming\C#\DrawRec\DrawRec\bin\Debug\DrawRec.exe.config
-E:\Dropbox\Other Projects\Programming\C#\DrawRec\DrawRec\bin\Debug\DrawRec.exe
-E:\Dropbox\Other Projects\Programming\C#\DrawRec\DrawRec\bin\Debug\DrawRec.pdb
-E:\Dropbox\Other Projects\Programming\C#\DrawRec\DrawRec\obj\Debug\DrawRec.csprojResolveAssemblyReference.cache
-E:\Dropbox\Other Projects\Programming\C#\DrawRec\DrawRec\obj\Debug\DrawRec.exe
-E:\Dropbox\Other Projects\Programming\C#\DrawRec\DrawRec\obj\Debug\DrawRec.pdb
