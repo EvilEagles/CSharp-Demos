@@ -1,1 +1,6 @@
 E:\Repositories\CSharp-Demos\ScrabbleWordCalculator\ScrabbleWordCalculator\bin\Debug\ScrabbleWordCalculator.exe.config
+E:\Repositories\CSharp-Demos\ScrabbleWordCalculator\ScrabbleWordCalculator\bin\Debug\ScrabbleWordCalculator.exe
+E:\Repositories\CSharp-Demos\ScrabbleWordCalculator\ScrabbleWordCalculator\bin\Debug\ScrabbleWordCalculator.pdb
+E:\Repositories\CSharp-Demos\ScrabbleWordCalculator\ScrabbleWordCalculator\obj\Debug\ScrabbleWordCalculator.csprojResolveAssemblyReference.cache
+E:\Repositories\CSharp-Demos\ScrabbleWordCalculator\ScrabbleWordCalculator\obj\Debug\ScrabbleWordCalculator.exe
+E:\Repositories\CSharp-Demos\ScrabbleWordCalculator\ScrabbleWordCalculator\obj\Debug\ScrabbleWordCalculator.pdb
