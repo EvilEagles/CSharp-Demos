@@ -1,0 +1,1 @@
+E:\Repositories\CSharp-Demos\ScrabbleWordCalculator\ScrabbleWordCalculator\bin\Debug\ScrabbleWordCalculator.exe.config

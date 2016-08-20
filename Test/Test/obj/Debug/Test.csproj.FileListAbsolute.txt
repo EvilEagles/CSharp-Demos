@@ -1,0 +1,6 @@
+E:\Repositories\CSharp-Demos\Test\Test\bin\Debug\Test.exe.config
+E:\Repositories\CSharp-Demos\Test\Test\bin\Debug\Test.exe
+E:\Repositories\CSharp-Demos\Test\Test\bin\Debug\Test.pdb
+E:\Repositories\CSharp-Demos\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Repositories\CSharp-Demos\Test\Test\obj\Debug\Test.exe
+E:\Repositories\CSharp-Demos\Test\Test\obj\Debug\Test.pdb

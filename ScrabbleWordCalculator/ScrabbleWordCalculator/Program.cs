@@ -32,7 +32,7 @@ namespace ScrabbleWordCalculator
         public static int returnedValue;
         public static int score;
         #endregion
-        
+
         // FUNCTION: GET THE SCORE FOR THE CHAR PARAMETER
         public static int getScore(char letter)
         {
