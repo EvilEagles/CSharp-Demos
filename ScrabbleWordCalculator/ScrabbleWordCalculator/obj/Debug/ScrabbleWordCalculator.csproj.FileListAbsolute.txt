@@ -4,3 +4,13 @@ E:\Repositories\CSharp-Demos\ScrabbleWordCalculator\ScrabbleWordCalculator\bin\D
 E:\Repositories\CSharp-Demos\ScrabbleWordCalculator\ScrabbleWordCalculator\obj\Debug\ScrabbleWordCalculator.csprojResolveAssemblyReference.cache
 E:\Repositories\CSharp-Demos\ScrabbleWordCalculator\ScrabbleWordCalculator\obj\Debug\ScrabbleWordCalculator.exe
 E:\Repositories\CSharp-Demos\ScrabbleWordCalculator\ScrabbleWordCalculator\obj\Debug\ScrabbleWordCalculator.pdb
+D:\Git Repositories\CSharp-Demos\ScrabbleWordCalculator\ScrabbleWordCalculator\bin\Debug\ScrabbleWordCalculator.exe.config
+D:\Git Repositories\CSharp-Demos\ScrabbleWordCalculator\ScrabbleWordCalculator\obj\Debug\ScrabbleWordCalculator.exe
+D:\Git Repositories\CSharp-Demos\ScrabbleWordCalculator\ScrabbleWordCalculator\obj\Debug\ScrabbleWordCalculator.pdb
+D:\Git Repositories\CSharp-Demos\ScrabbleWordCalculator\ScrabbleWordCalculator\obj\Debug\ScrabbleWordCalculator.csprojResolveAssemblyReference.cache
+D:\Git Repositories\CSharp-Demos\ScrabbleWordCalculator\ScrabbleWordCalculator\bin\Debug\ScrabbleWordCalculator.exe.manifest
+D:\Git Repositories\CSharp-Demos\ScrabbleWordCalculator\ScrabbleWordCalculator\bin\Debug\ScrabbleWordCalculator.application
+D:\Git Repositories\CSharp-Demos\ScrabbleWordCalculator\ScrabbleWordCalculator\bin\Debug\ScrabbleWordCalculator.exe
+D:\Git Repositories\CSharp-Demos\ScrabbleWordCalculator\ScrabbleWordCalculator\bin\Debug\ScrabbleWordCalculator.pdb
+D:\Git Repositories\CSharp-Demos\ScrabbleWordCalculator\ScrabbleWordCalculator\obj\Debug\ScrabbleWordCalculator.exe.manifest
+D:\Git Repositories\CSharp-Demos\ScrabbleWordCalculator\ScrabbleWordCalculator\obj\Debug\ScrabbleWordCalculator.application
